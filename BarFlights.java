@@ -1,7 +1,7 @@
 import java.lang.reflect.Array;
 import java.util.*;
 
-public class Flights extends FlightObj{
+public class BarFlights extends FlightObj{
 
   public static void main(String[] args){
     String[] arrivalAirports = {"MIAMI","NASHVILLE","CHARLOTTE","CHARLESTON","RICHMOND","NEWORLEANS","JACKSON"};
